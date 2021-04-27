@@ -1,0 +1,86 @@
+
+
+
+.container{
+    
+    margin: 50px;
+    padding: 5px;
+    border-radius: 20px;
+
+    
+ 
+}
+
+.articale-image img{
+    
+    height: 150px;
+    width: 200px;
+}
+
+.articale{
+
+    display: inline-flex;
+    flex-direction: column;
+    margin: 20px 0px 100px 150px ;
+
+  
+}
+
+.article-body{
+
+    flex:1;
+
+    
+}
+.articale-image{
+
+}
+
+
+
+.top-title  {
+    margin-top: 100px;
+   text-align: center;
+ 
+}
+.top-title h1,h2{
+    color: brown;
+}
+.top-title a  {
+    text-decoration: none;
+}
+
+
+
+ p{
+    color: rgb(53, 53, 53);
+    font-family: Tw Cen MT;
+}
+h3{
+    color: brown;
+}
+.articale-date{
+
+    color:#b4b4b4;
+}
+
+.articale-btn{
+
+    height: 30px;
+    width: 90px;
+    background-color: brown;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+a{
+    font-family: Tw Cen MT;
+}
+
+.articale-image img{
+    border-radius: 20px;
+    
+}
+
